@@ -1,4 +1,3 @@
-#ntkhanh.github.io
 <html>
 <body>
 <h2>Privacy Policy</h2>
