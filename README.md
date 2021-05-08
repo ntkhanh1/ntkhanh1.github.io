@@ -1,82 +1,77 @@
-<html>
-<body>
-<h2>Privacy Policy</h2>
-<p>[Individual or Company Name] built the [App Name] app as a [open source | free | freemium | ad-supported | commercial] app. This SERVICE is provided by [Individual or company name] [at no cost] and is intended
-    for use as is.</p>
-<p>This page is used to inform website visitors regarding [my|our] policies with the collection, use, and
-    disclosure of Personal Information if anyone decided to use [my|our] Service.</p>
-<p>If you choose to use [my|our] Service, then you agree to the collection and use of information in
-    relation with this policy. The Personal Information that [I|we] collect are used for providing and
-    improving the Service. [I|We] will not use or share your information with anyone except as described
-    in this Privacy Policy.</p>
-<p>The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions,
-    which is accessible at [App Name], unless otherwise defined in this Privacy Policy.</p>
+<h1>Privacy Policy for Puzzle Studios</h1>
 
-<p><strong>Information Collection and Use</strong></p>
-<p>For a better experience while using our Service, [I|we] may require you to provide us with certain
-    personally identifiable information, including but not limited to [add whatever else you collect here, e.g. users name | address | location | pictures]. 
-	The information that [I|we] request is [retained on your device and is not
-    collected by [me|us] in any way]|[will be retained by us and used as described in this privacy policy.</p>
-<p>The app does use third party services that may collect information used to identify you. [You can mention Google services here and link to Google's privacy policy if you want].
+<p>At Puzzle Studio, accessible from ntkhanh1.github.io, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Puzzle Studio and how we use it.</p>
 
-<p><strong>Log Data</strong></p>
-<p>[I|We] want to inform you that whenever you use [my|our] Service, in case of an error in the app [I|we] collect
-    data and information (through third party products) on your phone called Log Data. This Log Data
-    may include information such as your devices’s Internet Protocol (“IP”) address, device name,
-    operating system version, configuration of the app when utilising [my|our] Service, the time and date
-    of your use of the Service, and other statistics.</p>
+<p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
 
-<p><strong>Cookies</strong></p>
-<p>Cookies are files with small amount of data that is commonly used an anonymous unique identifier.
-    These are sent to your browser from the website that you visit and are stored on your devices’s
-    internal memory.</p>
-<p>>!-- Check if this is true for your app, if unsure, just assume that you do use cookies and modify this next line -->This Services does not uses these “cookies” explicitly. However, the app may use third party code
-    and libraries that use “cookies” to collection information and to improve their services. You
-    have the option to either accept or refuse these cookies, and know when a cookie is being sent
-    to your device. If you choose to refuse our cookies, you may not be able to use some portions of
-    this Service.</p>
+<p>This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Puzzle Studio. This policy is not applicable to any information collected offline or via channels other than this website. Our Privacy Policy was created with the help of the <a href="https://www.privacypolicyonline.com/privacy-policy-generator/">Online Generator of Privacy Policy</a>.</p>
 
-<p><strong>Service Providers</strong></p> <!-- This part need seem like it's not needed, but if you use any Google services, or any other third party libraries, chances are, you need this. -->
-<p>[I|We] may employ third-party companies and individuals due to the following reasons:</p>
+<h2>Consent</h2>
+
+<p>By using our website, you hereby consent to our Privacy Policy and agree to its terms.</p>
+
+<h2>Information we collect</h2>
+
+<p>The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.</p>
+<p>If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.</p>
+<p>When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number.</p>
+
+<h2>How we use your information</h2>
+
+<p>We use the information we collect in various ways, including to:</p>
+
 <ul>
-    <li>To facilitate our Service;</li>
-    <li>To provide the Service on our behalf;</li>
-    <li>To perform Service-related services; or</li>
-    <li>To assist us in analyzing how our Service is used.</li>
+<li>Provide, operate, and maintain our website</li>
+<li>Improve, personalize, and expand our website</li>
+<li>Understand and analyze how you use our website</li>
+<li>Develop new products, services, features, and functionality</li>
+<li>Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes</li>
+<li>Send you emails</li>
+<li>Find and prevent fraud</li>
 </ul>
-<p>[I|We] want to inform users of this Service that these third parties have access to your Personal
-    Information. The reason is to perform the tasks assigned to them on our behalf. However, they
-    are obligated not to disclose or use the information for any other purpose.</p>
 
-<p><strong>Security</strong></p>
-<p>[I|We] value your trust in providing us your Personal Information, thus we are striving to use
-    commercially acceptable means of protecting it. But remember that no method of transmission over
-    the internet, or method of electronic storage is 100% secure and reliable, and [I|we] cannot
-    guarantee its absolute security.</p>
+<h2>Log Files</h2>
 
-<p><strong>Links to Other Sites</strong></p>
-<p>This Service may contain links to other sites. If you click on a third-party link, you will be
-    directed to that site. Note that these external sites are not operated by [me|us]. Therefore, I
-    strongly advise you to review the Privacy Policy of these websites. I have no control over, and
-    assume no responsibility for the content, privacy policies, or practices of any third-party
-    sites or services.</p>
+<p>Puzzle Studio follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.</p>
 
-<p><strong>Children’s Privacy</strong></p>
-<p>This Services do not address anyone under the age of 13. [I|We] do not knowingly collect personal
-    identifiable information from children under 13. In the case [I|we] discover that a child under 13
-    has provided [me|us] with personal information, [I|we] immediately delete this from our servers. If you
-    are a parent or guardian and you are aware that your child has provided us with personal
-    information, please contact [me|us] so that [I|we] will be able to do necessary actions.</p>
 
-<p><strong>Changes to This Privacy Policy</strong></p>
-<p>[I|We] may update our Privacy Policy from time to time. Thus, you are advised to review this page
-    periodically for any changes. [I|We] will notify you of any changes by posting the new Privacy Policy
-    on this page. These changes are effective immediately, after they are posted on this page.</p>
 
-<p><strong>Contact Us</strong></p>
-<p>If you have any questions or suggestions about [my|our] Privacy Policy, do not hesitate to contact
-    [me|us].</p>
-<p>This Privacy Policy page was created at <a href="https://privacypolicytemplate.net"
-                                              target="_blank">privacypolicytemplate.net</a>.</p>
-</body>
-</html>
+
+<h2>Advertising Partners Privacy Policies</h2>
+
+<P>You may consult this list to find the Privacy Policy for each of the advertising partners of Puzzle Studio.</p>
+
+<p>Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Puzzle Studio, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.</p>
+
+<p>Note that Puzzle Studio has no access to or control over these cookies that are used by third-party advertisers.</p>
+
+<h2>Third Party Privacy Policies</h2>
+
+<p>Puzzle Studio's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. </p>
+
+<p>You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.</p>
+
+<h2>CCPA Privacy Rights (Do Not Sell My Personal Information)</h2>
+
+<p>Under the CCPA, among other rights, California consumers have the right to:</p>
+<p>Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.</p>
+<p>Request that a business delete any personal data about the consumer that a business has collected.</p>
+<p>Request that a business that sells a consumer's personal data, not sell the consumer's personal data.</p>
+<p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</p>
+
+<h2>GDPR Data Protection Rights</h2>
+
+<p>We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:</p>
+<p>The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.</p>
+<p>The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.</p>
+<p>The right to erasure – You have the right to request that we erase your personal data, under certain conditions.</p>
+<p>The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.</p>
+<p>The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.</p>
+<p>The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.</p>
+<p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</p>
+
+<h2>Children's Information</h2>
+
+<p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.</p>
+
+<p>Puzzle Studio does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
